@@ -10,6 +10,10 @@ This displays a post's feature image as a large, immersive photo that fades to a
 
 ## Setup
 
+### functions.php
+
+* Activate Waypoints ////
+
 ### _config.php
 
 Copy the following into your child theme's `_config.php` file.
