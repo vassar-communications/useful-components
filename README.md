@@ -4,4 +4,7 @@ you shouldn't need anything other than what is specified for each project. The J
 
 The goal here is to collect together re-usable components, along with instructions on how to implement them in vassar-parent-theme-based projects.
 
-**Note:** These are intended more as starters—components to be integrated into a project and edited—rather than core components that you'd leave untouched and design around. Different projects may have different configurations, so components may require some adjustment before working properly.
+**Note:** 
+
+* These are intended more as starters—components to be integrated into a project and edited—rather than core components that you'd leave untouched and design around. Different projects may have different configurations, so components may require some adjustment before working properly.
+* Ideally, bring these components in at the start of a project. Applying a component to a pre-existing design might lead to unpredictable results, since the existing design might conflict with the component styling.
